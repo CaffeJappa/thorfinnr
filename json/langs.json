@@ -1,0 +1,35 @@
+{
+	"vec": {
+		"LANGUAGE_SET": "%VAR% gà inpostà so łéngua par %VAR%.",
+		"MALAGGI": "L'é mato!",
+		"HELP_AUTHOR": "Ajuto del %VAR%",
+		"HELP_DESC": "Sti xé i befèi disponìbile pa'l **%VAR%**\nEl prefìso xé: ``%VAR%``",
+		"COMMANDS": "**Befèi**",
+		"HELP_NAME": "**Nome**",
+		"HELP_DESC2": "**Descrision**",
+		"HELP_USE": "**Doparamento**",
+		"HELP_CAT": "**Categoria**"
+	},
+	"pt": {
+		"LANGUAGE_SET": "%VAR% definiu sua língua para %VAR%.",
+		"MALAGGI": "Louco!",
+		"HELP_AUTHOR": "Ajuda do %VAR%",
+		"HELP_DESC": "Esses são os comandos disponíveis para **%VAR%**\nO prefixo é: ``%VAR%``",
+		"COMMANDS": "**Comandos**",
+		"HELP_NAME": "**Nome**",
+		"HELP_DESC2": "**Descrição**",
+		"HELP_USE": "**Utilização**",
+		"HELP_CAT": "**Categoria**"
+	},
+	"hrx": {
+		"LANGUAGE_SET": "%VAR% hod sein Sproch zu %VAR% bestimmd.",
+		"MALAGGI": "Er is ferickd!",
+		"HELP_AUTHOR": "Hellef fun %VAR%",
+		"HELP_DESC": "Esses são os comandos disponíveis para **%VAR%**\nO prefixo é: ``%VAR%``",
+		"COMMANDS": "**Comandos**",
+		"HELP_NAME": "**Naame**",
+		"HELP_DESC2": "**Descrição**",
+		"HELP_USE": "**Utilização**",
+		"HELP_CAT": "**Categoria**"
+	}
+}
